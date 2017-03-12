@@ -1,21 +1,12 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Soccer Score Board Built in PHP and Mysql.
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* create scoreboard database
+* load db/scoreboard.sql to mysql
+* php -S localhost:8000
 
 ### Contribution guidelines ###
 
