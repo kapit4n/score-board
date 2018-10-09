@@ -2,8 +2,7 @@
 
 Soccer Score Board Built in PHP and Mysql.
 
-## Mockup
-![Score Board](https://github.com/kapit4n/score-board/raw/master/mockup/main scoreboard.png)
+<img src="https://raw.githubusercontent.com/kapit4n/score-board/master/mockup/main%20scoreboard.png" width="100%"/>
 
 ### How do I get set up? ###
 
